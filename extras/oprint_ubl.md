@@ -1,7 +1,7 @@
 ---
 layout: plugin
 
-id: oprint-ubl
+id: oprint_ubl
 title: OctoPrint-Oprint-ubl
 description: TODO
 author: Peter Mullen

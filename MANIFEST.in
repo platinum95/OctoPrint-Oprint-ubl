@@ -1,4 +1,4 @@
 include README.md
-recursive-include octoprint_oprint-ubl/templates *
-recursive-include octoprint_oprint-ubl/translations *
-recursive-include octoprint_oprint-ubl/static *
+recursive-include octoprint_oprint_ubl/templates *
+recursive-include octoprint_oprint_ubl/translations *
+recursive-include octoprint_oprint_ubl/static *

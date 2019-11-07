@@ -11,7 +11,7 @@ from __future__ import absolute_import
 
 import octoprint.plugin
 
-class Oprint-ublPlugin(octoprint.plugin.SettingsPlugin,
+class Oprint_ublPlugin(octoprint.plugin.SettingsPlugin,
                        octoprint.plugin.AssetPlugin,
                        octoprint.plugin.TemplatePlugin):
 
@@ -40,7 +40,7 @@ class Oprint-ublPlugin(octoprint.plugin.SettingsPlugin,
 		# Plugin here. See https://github.com/foosel/OctoPrint/wiki/Plugin:-Software-Update
 		# for details.
 		return dict(
-			oprint-ubl=dict(
+			oprint_ubl=dict(
 				displayName="Oprint-ubl Plugin",
 				displayVersion=self._plugin_version,
 
